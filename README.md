@@ -9,6 +9,7 @@ While it's no substitute for the actual Nanodegree programs
 (which include project reviews, additional student and career guidance, and a
 job guarantee) there is some great content available for learning.
 
+
 NOTE: I have NO affiliation with Udacity
 
 ---
@@ -27,7 +28,7 @@ Lately, as Udacity adds more and more great (and relevent) programs, the
 newer Nanodegrees haven't been listing the courses and/or linking to them and
 this list hasn't been updated as frequently.
 
-### What about pull requests, I'd like to contribute?
+##### What about pull requests, I'd like to contribute?
 
 Awesome! As long as your PR meets the same 3 criteria in the last section.
 
